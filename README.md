@@ -11,5 +11,6 @@ Execution Steps(to run in local):
 2) Setup a local [http.server](https://ryanblunden.com/create-a-http-server-with-one-command-thanks-to-python-29fcfdcd240e)
 3) Open choropleth.html after initiating http server to view the visualization.
 
+Click here for Interactive Visualization:  https://gmadhu89.github.io/Choropleth/
 
 ![Snapshot of Map for One Game: Clue](https://github.com/gmadhu89/academic-projects/blob/main/Choropleth/choropleth.jpg?raw=true "Snapshot of Choropleth Visualization")
