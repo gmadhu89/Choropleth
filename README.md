@@ -2,9 +2,9 @@ This project was a Choropleth interactive Map visualization, with different geor
 
 Dropdown lists are used to select a specific game, and the visualization updates the results accordingly.  
 
-Input file: ratings-by-country.csv  
-            world_countries.json
-Code :      choropleth.html  
+Input file: country_data.csv  
+            countries.json
+Code :      index.html  
 
 Execution Steps(to run in local):    
 1) Copy the lib/ folder to your local.
