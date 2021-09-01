@@ -66,8 +66,8 @@
             var path = d3.geoPath().projection(projection);
 
 		// Global variables Declaration
-            var country_ratings = d3.csv("ratings-by-country.csv");
-            var countries = d3.json("world_countries.json");
+            var country_ratings = d3.csv("country_data.csv");
+            var countries = d3.json("countries.json");
 
     // Extraciting the data sets
         Promise.all([
