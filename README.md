@@ -13,4 +13,4 @@ Execution Steps(to run in local):
 
 Click here for [Interactive Visualization](https://gmadhu89.github.io/Choropleth/)
 
-![Snapshot of Map for One Game: Clue](https://github.com/gmadhu89/Choropleth/choropleth.jpg?raw=true "Snapshot of Choropleth Visualization")
+![Snapshot of Map for One Game: Clue](https://github.com/gmadhu89/main/blob/Choropleth/choropleth.jpg?raw=true "Snapshot of Choropleth Visualization")
